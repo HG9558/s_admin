@@ -1,0 +1,46 @@
+.slh {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.cen {
+  height: 80px;
+  line-height: 80px;
+}
+
+.color-blue {
+  color: #409EFF;
+}
+.searchNew {
+  height: 58px;
+  overflow: hidden;
+  //border: 0 !important;
+}
+
+.searchNewTwo {
+  height: auto;
+  //border: 0 !important;
+  /*overflow: hidden;*/
+}
+
+.tect-ri {
+  text-align: right;
+}
+
+.tect-le {
+  text-align: left;
+}
+
+.wid-50 {
+  width: 50%;
+  display: inline-block;
+}
+
+.mar-ri-10 {
+  margin-right: 10px !important;
+}
+
+.wid-80 {
+  width: 80px !important;
+}

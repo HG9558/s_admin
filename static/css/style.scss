@@ -1,0 +1,29 @@
+form.el-form.query{
+  background: #f6f7f8;
+  padding: 8px 20px 2px 20px;
+  border: 1px solid #e6ebf5;
+  .el-form-item.btn-serch {
+    float: right;
+    margin-top: 33px;
+    margin-right: 0px;
+    margin-left: -16px;
+  }
+  .el-form-item{
+    margin-bottom: 6px;
+  }
+}
+.row-bg{
+  margin: 10px 0;
+}
+.el-form--inline.el-form--label-top .el-form-item__label{
+  padding-bottom: 0;line-height: 32px;
+}
+.el-form-item {
+  margin-bottom: 20px;
+}
+.intTime {
+  position: absolute;
+  right: 39px;
+  color: #e47470;
+  padding-top: 27px;
+}

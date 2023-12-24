@@ -1,0 +1,260 @@
+/*iconfont 字体图标*/
+/* @font-face {*/
+/*   font-family: 'iconfont';  /!* project id 463156 *!/*/
+/*   src: url('./assets/iconfont.eot');*/
+/*   src: url('./assets/iconfont.eot?#iefix') format('embedded-opentype'),*/
+/*   url('./assets/iconfont.woff') format('woff'),*/
+/*   url('./assets/iconfont.ttf') format('truetype'),*/
+/*   url('./assets/iconfont.svg#iconfont') format('svg');*/
+/* }*/
+
+@font-face {
+  font-family: 'iconfont';  /* project id 463156 */
+  src: url('//at.alicdn.com/t/font_463156_auwvjfv0kdf.eot');
+  src: url('//at.alicdn.com/t/font_463156_auwvjfv0kdf.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_463156_auwvjfv0kdf.woff2') format('woff2'),
+  url('//at.alicdn.com/t/font_463156_auwvjfv0kdf.woff') format('woff'),
+  url('//at.alicdn.com/t/font_463156_auwvjfv0kdf.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_463156_auwvjfv0kdf.svg#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family: 'iconfont' !important;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/*喇叭*/
+.icon-voice:before {
+  content: '\e72f';
+}
+
+/*登录icon*/
+.icon-login:before {
+  content: '\e681';
+}
+
+/*登录-账户密码错误提示icon*/
+.icon-warning:before {
+  content: '\e71b';
+}
+
+/*管理总览icon*/
+.icon-managePandect:before {
+  content: '\e640';
+}
+
+/*流程管理icon*/
+.icon-flowManage:before {
+  content: '\e61a';
+}
+
+/*会员管理icon*/
+.icon-memberManage:before {
+  content: '\e7a4'
+}
+
+/*代理管理icon*/
+.icon-agentManage:before {
+  content: '\e709';
+}
+
+/*资金管理icon*/
+.icon-wageManage:before {
+  content: '\e692';
+}
+
+/*游戏管理icon*/
+.icon-gameManage:before {
+  content: '\e6c6';
+}
+
+/*经营分析icon*/
+.icon-businessAnalyze:before {
+  content: '\e6cb'
+}
+
+/*市场活动icon*/
+.icon-activityManage:before {
+  content: '\e616'
+}
+
+/*公告管理icon*/
+.icon-tellManage:before {
+  content: '\e6ee'
+  /*e6ee*/
+}
+
+/*广告管理icon*/
+.icon-adManege:before {
+  content: '\e6a0'
+}
+
+/*支付配置icon*/
+.icon-paySet:before {
+  content: '\e62d'
+}
+
+/*系统管理icon */
+.icon-systemManage:before {
+  content: '\e671'
+}
+
+/*弹出框关闭icon*/
+.icon-close:before {
+  content: '\e6e9';
+  cursor: pointer;
+}
+
+/*报表导出icon*/
+.icon-export:before {
+  content: '\e726'
+}
+
+/*经营分析-经营报表-向上icon*/
+.icon-up:before {
+  content: '\e7a5'
+}
+
+.icon-down:before {
+  content: '\e601'
+}
+
+.icon-copy:before {
+  content: '\ec7a'
+}
+
+/* 毛利润 icon1-5*/
+.icon-1:before {
+  content: '\e626'
+}
+
+.icon-2:before {
+  content: '\e624'
+}
+
+.icon-3:before {
+  content: '\e624'
+}
+
+.icon-4:before {
+  content: '\e616'
+}
+
+.icon-5:before {
+  content: '\e682'
+}
+
+.icon-double-down:after {
+  content: '\e625'
+}
+
+/*新增活动步骤条*/
+.icon-one:before {
+  content: '\e660'
+}
+
+.icon-two:before {
+  content: '\e661'
+}
+
+.icon-three:before {
+  content: '\e662'
+}
+
+.icon-dot:before {
+  content: '\e82e'
+}
+
+.icon-wenhao:before {
+  content: '\e60a'
+}
+
+.icon-nav:before {
+  content: '\e62b'
+}
+
+.icon-avatar:before {
+  content: '\e673'
+}
+
+.icon-computer:before {
+  content: '\e614'
+}
+
+.icon-book:before {
+  content: '\e610'
+}
+
+// 编辑条款
+.icon-editTem:before {
+  content: '\e6e5'
+}
+
+.icon-back:before {
+  content: '\e691'
+}
+
+.icon-add:before {
+  content: '\e6df'
+}
+
+.icon-passhide:before {
+  content: '\e6a2'
+}
+
+.icon-passshow:before {
+  content: '\e629'
+}
+
+.icon-active:before {
+  content: '\e6a7'
+}
+
+.icon-register:before {
+  content: '\e613'
+}
+
+.icon-wallet:before {
+  content: '\e66a'
+}
+
+.icon-downnotice:before {
+  content: '\e74a'
+}
+
+.icon-label-left:before {
+  content: '\e618'
+}
+
+.icon-label-right:before {
+  content: '\e6f8'
+}
+
+.icon-diannao:before {
+  content: '\e63c'
+}
+
+.icon-hongbao:before {
+  content: '\e71d'
+}
+
+.icon-huodong:before {
+  content: '\e6e3'
+}
+.icon-wenhao:before {
+  content: '\e621'
+}
+.icon-yinli:before {
+  content: '\e674'
+}
+.icon-hongli:before {
+  content: '\e669'
+}
+.icon-paicai:before {
+  content: '\e60f'
+}
+.icon-caijin:before {
+  content: '\e62c'
+}
